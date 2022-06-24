@@ -31,3 +31,36 @@ c:\users\lenovo\documents\visual studio 2015\Projects\ProjectHealth\ProjectHealt
 c:\users\lenovo\documents\visual studio 2015\Projects\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.csprojResolveAssemblyReference.cache
 c:\users\lenovo\documents\visual studio 2015\Projects\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.dll
 c:\users\lenovo\documents\visual studio 2015\Projects\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.pdb
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\ApplicationInsights.config
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\csc.exe
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\vbc.exe
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\ProjectHealth.dll.config
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\ProjectHealth.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\ProjectHealth.pdb
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.dll
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.pdb
