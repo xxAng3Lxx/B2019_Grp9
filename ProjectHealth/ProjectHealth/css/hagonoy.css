@@ -1,0 +1,75 @@
+﻿body {
+    background-color:pink
+}
+.table{
+    width:700px;
+   
+    }
+.table-condensed tr th {
+border: 0px solid #6e7bd9;
+color: white;
+background-color: #6e7bd9;
+ height:70px;
+}
+
+.table-condensed, .table-condensed tr td {
+border: 0px solid #000;
+ height:50px;
+}
+
+tr:nth-child(even) {
+background: #f8f7ff
+}
+
+tr:nth-child(odd) {
+background: #fff;
+}
+
+
+/*table 222222222222222222222222*/
+
+.table2{
+    width:900px;
+   
+    }
+.table-condensed2 tr th {
+border: 0px solid #6e7bd9;
+color: white;
+background-color: #6e7bd9;
+ height:50px;
+   position: sticky;
+   top: 0;
+}
+
+.table-condensed2, .table-condensed2 tr td {
+border: 0px solid #000;
+ height:40px;
+ padding:10px;
+ text-align:center;
+
+
+}
+
+tr:nth-child(even) {
+background: #f8f7ff
+}
+
+tr:nth-child(odd) {
+background: #fff;
+}
+
+
+div.scroll{
+    max-height:250px;
+    overflow-y:scroll;
+    position:absolute;
+    right:20px;
+    bottom:20px;
+}
+div.scroll2{
+    max-height:270px;
+    overflow-y:scroll;
+    position:absolute;
+    right:20px;
+  
+}

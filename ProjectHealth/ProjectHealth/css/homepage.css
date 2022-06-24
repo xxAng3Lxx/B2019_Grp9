@@ -1,0 +1,107 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-color: #F4FDFE;
+}
+div.box1{
+    position:absolute;
+    width:450px;
+    height:250px;
+    background-color:#F1F1F1;
+    right:130px;
+    bottom:120px;
+    border-radius:15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+
+}
+.p{
+    font-size:25px;
+    color:#58585B;
+    position:absolute;
+    padding:60px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    top:25px;
+}
+.p0{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    font-size:25px;
+    color:#58585B;
+    position:absolute;
+    right:130px;
+    max-width:450px;
+    top:165px;
+}
+div.box2{
+    position:absolute;
+    left:70px;
+    width:600px;
+    height:400px;
+    top:80px;
+    padding:0px;
+    margin:0px
+}
+.p2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800;
+    font-size:60px;
+    color:#58585B;
+    position:absolute;
+    line-height: 120%;
+    top:50px;
+    
+}
+.p3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:500;
+    color:black;
+    position:absolute;
+    bottom:0px;
+    max-width:520px;
+    font-size:17px;
+    line-height: 160%;
+    
+}
+.dropdown1{
+    width:190px;
+    height:35px;
+    border-radius:5px;
+    right:170px;
+    position:absolute;
+    bottom:245px;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.button1{
+    width:150px;
+    height:35px;
+    border-radius:5px;
+    right:170px;
+    position:absolute;
+    bottom:150px;
+    background-color:#05A7C0;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    outline: none;
+}
+.button1:hover { 
+    background-color:darkcyan;
+}
+.admin{
+    height:30px;
+    left:80px;
+    top:20px;
+    position:absolute;
+}
+

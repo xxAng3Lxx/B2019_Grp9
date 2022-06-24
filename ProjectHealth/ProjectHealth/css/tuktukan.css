@@ -1,0 +1,141 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+body {
+    background-color:#D1ECFF;
+    padding:0px;
+    margin:0px;
+}
+div.tuktukan{
+   width:700px;
+    height:500px;
+    right:70px;
+    top:100px;
+    position:absolute;
+
+}
+.p1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800;
+    font-size:55px;
+    color:#58585B;
+    position:absolute;
+    line-height: 120%;
+    max-width:900px;
+    text-align:center;
+    top:70px;
+    
+}
+.p11{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:500;
+    color:black;
+    padding:10px;
+    position:absolute;
+    bottom:140px;
+    max-width:510px;
+    line-height: 190%;
+    font-size:18px;
+    left:90px;
+     text-align:center;
+
+    
+}
+.nurse{
+    position:absolute;
+    height:550px;
+    width:430px;
+    left:120px;
+    bottom:1px;
+
+}
+div.nav{
+    height:50px;
+    width:100%;
+
+}
+.hoome{
+    color:white;
+    left: 100px;
+    position:absolute;
+    font-size:30px;
+    margin:5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    color:black;
+     background-color: #D1ECFF;
+     border-style: none;
+      border-radius:15px;
+   
+   
+     
+}
+.navhome{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    width:140px;
+    height:35px;
+    border-radius:15px;
+    right:430px;
+    margin:7px;
+    position:absolute;
+     background-color: #D1ECFF;
+     color:#58585B;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    font-size:17px;
+    top: 0px;
+}
+.navcheckup{
+    width:140px;
+    height:35px;
+    border-radius:15px;
+    right:280px;
+    margin:7px;
+    position:absolute;
+    background-color: #D1ECFF;
+     color:#58585B;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    outline: none;
+     font-size:17px;
+}
+.navprenatal{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    width:140px;
+    height:35px;
+    border-radius:15px;
+    right:130px;
+    margin:7px;
+    position:absolute;
+    background-color: #D1ECFF;
+    
+    color:#58585B;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    font-size:17px;
+    top: 0px;
+}
+
+.navprenatal:hover{
+    background-color:#05A7C0;   
+    color:white;
+}
+.navhome:hover{
+    background-color:#05A7C0;  
+     color:white; 
+}
+.navcheckup:hover{
+    background-color:#05A7C0;  
+     color:white; 
+}
+.hoome:hover{
+    background-color:#05A7C0;  
+     color:white; 
+}
