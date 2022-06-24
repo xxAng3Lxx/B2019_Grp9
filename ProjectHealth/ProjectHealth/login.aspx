@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
     <div class="loginn">
 
-        <asp:Label ID="Label4" runat="server" Text="AHHAHHAAHHA"></asp:Label>
+        <asp:Label ID="Label4" runat="server" Text="hello world"></asp:Label>
 
 
         <asp:DropDownList ID="txtuser" runat="server" class="txtuser">
