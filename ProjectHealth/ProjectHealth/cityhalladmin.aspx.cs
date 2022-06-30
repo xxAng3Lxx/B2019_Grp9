@@ -106,7 +106,52 @@ namespace ProjectHealth
                 Chart2.Series["Series2"].YValueMembers = "countrowss";
                 Chart2.Series["Series2"].IsValueShownAsLabel = true;
 
-            
+                //------GRAPH-----------------------
+
+
+                String query3 = string.Format("Select Count(*) As countrowss,Age from TablePRENATAL Group by Age Having(Count(*)>-1)order by Age asc", "Age");
+                DataTable dt3 = GetData(query3);
+                string[] x3 = new string[dt3.Rows.Count];
+                int[] y3 = new int[dt3.Rows.Count];
+
+                for (int b = 0; b < dt3.Rows.Count; b++)
+                {
+
+                    x3[b] = dt3.Rows[b][1].ToString();
+                    y3[b] = Convert.ToInt32(dt3.Rows[b][0]);
+
+                }
+                Chart3.Series[0].Points.DataBindXY(x3, y3);
+                Chart3.Series[0].ChartType = SeriesChartType.Line;
+                Chart3.ChartAreas["ChartArea3"].Area3DStyle.Enable3D = false;
+                Chart3.Width = 1040;
+
+                Chart3.ChartAreas[0].AxisY.LabelStyle.ForeColor = System.Drawing.Color.Black;
+                //   Chart3.Legends[0].Enabled = true;
+                // Chart3.Legends[0].Font = new Font("Verdana", 12);
+                // Chart3.Legends[0].Title = "Women Pregnancy Age";
+                Chart3.Series["Series3"].XValueMember = "Age";
+                Chart3.Series["Series3"].YValueMembers = "countrowss";
+                // Chart3.Series["Series3"].IsValueShownAsLabel = true;
+
+                Chart3.Series["Series3"].Points.DataBindXY(x3, y3);
+                Chart3.Series["Series3"].MarkerStyle = MarkerStyle.Square;
+                Chart3.Series["Series3"].MarkerSize = 15;
+                // Chart3.Series["Series3"].Points[0].MarkerColor = Color.MediumVioletRed;
+                Chart3.Series["Series3"].Color = Color.DodgerBlue;
+
+
+                Chart3.Series["Series3"].BorderWidth = 3;
+
+                Chart3.ChartAreas[0].AxisX.LabelStyle.Font = new System.Drawing.Font("Verdana", 8f, System.Drawing.FontStyle.Bold);
+                Chart3.ChartAreas[0].AxisY.LabelStyle.Font = new System.Drawing.Font("Verdana", 10, System.Drawing.FontStyle.Bold);
+                Chart3.ChartAreas[0].AxisY.LabelStyle.ForeColor = System.Drawing.Color.Black;
+
+
+
+
+
+
 
             }
         }

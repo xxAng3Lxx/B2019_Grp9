@@ -52,13 +52,18 @@ namespace ProjectHealth
                     if (username == "Admin" && dt.Rows[i]["usertype"].ToString() == item)
                         Response.Write("<script>alert('Welcome to Health Center Admin');window.location = 'cityhalladmin.aspx';</script>"); //works great    
                     else if (username == "Tuktukan" && dt.Rows[i]["usertype"].ToString() == item)
-                        Response.Write("<script>alert('Welcome to Barangay Tuktukan');window.location = 'tuktukan.aspx';</script>"); //works great    
+                        Response.Write("<script>alert('Welcome to Barangay Tuktukan');window.location = 'TUadmin.aspx';</script>"); //works great    
                     else if (username == "Staana" && dt.Rows[i]["usertype"].ToString() == item)
                         Response.Write("<script>alert('Welcome to Barangay staana');window.location = 'SAadmin.aspx';</script>"); //works great    
+
+                   
                 }
                 else
                 {
                     ScriptManager.RegisterStartupScript(this, this.GetType(), "script", "alert('Incorrect Username-Password-Usertype Combination');", true);
+
+                  
+
 
                 }
             }

@@ -1,0 +1,623 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    padding:0px;
+    margin:0px;
+    background-color:#F2F5FA;
+}
+.nav{
+    width:230px;
+    background-color:#FFFFFF;
+    height:100%;
+    position:fixed;
+    border-top-right-radius:20px;
+}
+.logo{
+    position:absolute;
+    height:80px;
+    width:80px;
+    top:20px;
+    left:20px;
+}
+.logotitle{
+    position:absolute;
+    color:#FF6961;
+    font-family: 'Poppins', sans-serif;
+    font-size:25px;
+    font-weight:700;
+    max-width:20px;
+    top:30px;
+    left:110px;
+    line-height:120%;
+
+}
+.button1{
+     
+     left: 10px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:600;
+     color:gray;
+       background-color: white;
+     border-style: none;
+     border-radius:8px;
+     top: 120px;   
+     width:200px;
+     height:40px;
+     /*191919*/
+}
+ 
+
+.button2{
+     
+     left: 10px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:600;
+    color:gray;
+    background-color: white;
+     border-style: none;
+     border-radius:8px;
+     top: 170px;   
+     width:200px;
+     height:40px;
+     /*191919*/
+}
+.button3{
+     
+     left: 10px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:600;
+     color:gray;
+    background-color: white;
+     border-style: none;
+     border-radius:8px;
+     top: 220px;   
+     width:200px;
+     height:40px;
+     /*191919*/
+}
+
+.button5{
+     
+     left: 10px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:600;
+    color:gray;
+  background-color: white;
+     border-style: none;
+     border-radius:8px;
+      top: 270px;   
+     width:200px;
+     height:40px;
+
+    
+}
+
+.button6{
+     
+     left: 10px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:600;
+   color:gray;
+    background-color: white;
+     border-style: none;
+     border-radius:8px;
+      top:320px;
+     width:200px;
+     height:40px;
+     /*191919*/
+}
+
+.button8{
+     
+      left: 10px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:600;
+    color:gray;
+     background-color: white;
+     border-style: none;
+     border-radius:8px;
+     bottom: 10px;   
+     width:200px;
+     height:40px;
+     /*191919*/
+}
+
+.button1:hover,.button2:hover,.button3:hover,
+.button4:hover,.button5:hover,.button6:hover,
+.button8:hover { 
+    background-color:dimgray;
+    color: white;
+}
+
+div.image1{
+    background-image:url('/imagess/dashboardblack.png') ;
+    background-repeat: no-repeat;
+    height:30px;
+    width:30px;
+    position:absolute;
+     top: 133px;
+     left:30px; 
+
+}
+div.image2{
+    background-image:url('/imagess/checkupblack.png') ;
+    background-repeat: no-repeat;
+    height:30px;
+    width:30px;
+    position:absolute;
+     top: 183px;
+     left:30px; 
+
+}
+div.image3{
+    background-image:url('/imagess/prenatalblack.png') ;
+    background-repeat: no-repeat;
+    height:30px;
+    width:30px;
+    position:absolute;
+     top: 233px;
+     left:30px; 
+
+}
+   
+div.image5{
+    background-image:url('/imagess/staffblack.png') ;
+    background-repeat: no-repeat;
+    height:30px;
+    width:30px;
+    position:absolute;
+     top: 283px;
+     left:30px; 
+     
+
+}   
+div.image6{
+    background-image:url('/imagess/account.png') ;
+    background-repeat: no-repeat;
+    height:30px;
+    width:30px;
+    position:absolute;
+     top: 333px;
+     left:30px; 
+
+}   
+div.image8{
+    background-image:url('/imagess/logoutblack.png') ;
+    background-repeat: no-repeat;
+    height:30px;
+    width:30px;
+    position:absolute;
+     bottom: 18px;
+     left:30px; 
+
+}     
+   
+.button1:hover + div.image1 {
+     background-image:url('/imagess/dashboardwhite.png') ;    
+}
+.button2:hover + div.image2 {
+     background-image:url('/imagess/checkupwhite.png') ;    
+}
+.button3:hover + div.image3 {
+     background-image:url('/imagess/prenatalwhite.png') ;    
+}
+
+.button5:hover + div.image5 {
+     background-image:url('/imagess/staffwhite.png') ;    
+}
+.button6:hover + div.image6 {
+     background-image:url('/imagess/accountwhite.png') ;    
+}
+.button8:hover + div.image8 {
+     background-image:url('/imagess/logoutwhite.png') ;    
+}
+
+/*-------------------*/
+div.content{
+    position:absolute;
+    height:100%;
+    width:82%;
+    left:235px;
+    padding:0px;
+    margin:0px;
+    top: 0px;
+}
+.title1{
+    font-family: 'Poppins', sans-serif;
+    font-size:45px;
+    font-weight:600;
+    position:absolute;
+    left: 20px;
+    margin:20px;
+    padding:0px;
+}
+.tagline1{
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+    font-weight:500;
+    color:darkgray;
+    position:absolute;
+    left: 45px;
+    top:75px;
+    padding:0px;
+    
+}
+/**tableeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+div.scroll{
+    max-height:250px;
+    overflow-y:scroll;
+    position:absolute;
+    left:45px;
+    top:110px;
+}
+.table{
+    width:1050px;
+   
+    }
+.table-condensed tr th {
+border: 0px solid #6e7bd9;
+color: white;
+background-color: #425365;
+ height:50px;
+   position: sticky;
+   top: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+}
+
+.table-condensed, .table-condensed tr td {
+border: 0px solid #000;
+ height:50px;
+ text-align:center;
+ font-family: 'Poppins', sans-serif;
+    font-size:15px;
+    font-weight:400;
+}
+
+tr:nth-child(even) {
+background: #E5F8FC;
+}
+
+tr:nth-child(odd) {
+background: #fff;
+}
+.selects{
+     font-size:15px;
+     font-family: 'Poppins', sans-serif;
+     font-weight:400;
+     color:white;
+     background-color: #1FC78A;
+     border-style: none;
+     border-radius:3px;
+     height:20px;
+     padding-bottom:25px;
+}
+
+
+/*-------------------------------------*/
+
+div.fillup{
+      background-color:white;
+    position:absolute;
+    height:230px;
+    width:900px;
+    bottom:13px;
+    left:45px;
+    border-radius:15px;
+
+}
+/*textboxxxxxxxxxxxxxxxxxxxx*/
+
+.txtnumbers{
+    height:30px;
+    position:absolute;
+    top:15px;
+    width:50px;
+    left:20px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+
+
+
+.txtpatient{
+     height:30px;
+    position:absolute;
+    top:20px;
+    width:270px;
+    left:170px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+
+.txtaddress{
+     height:30px;
+    position:absolute;
+    top:70px;
+    width:270px;
+    left:170px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtdate{
+     height:35px;
+    position:absolute;
+    top:120px;
+    width:270px;
+    left:170px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtillness{
+     height:40px;
+    position:absolute;
+     top:120px;
+    width:130px;
+    right:160px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtothers{
+     height:35px;
+    position:absolute;
+      top:120px;
+    width:118px;
+    right:30px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtcontact{
+     height:30px;
+    position:absolute;
+    top:170px;
+    width:270px;
+    left:170px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtage{
+     height:30px;
+    position:absolute;
+    top:70px;
+    width:250px;
+    right:30px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtgender{
+     height:40px;
+    position:absolute;
+    top:20px;
+    width:260px;
+    right:30px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.txtbgry{
+     height:30px;
+    position:absolute;
+    top:170px;
+    width:250px;
+    right:30px;
+    border-radius:10px;
+    border-color:#f1f1f1;
+    border-style:solid;
+    background-color:#f1f1f1;
+
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+}
+.patient{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+    top:25px;
+    left:70px;
+
+}
+.address{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+    top:73px;
+    left:80px;
+}
+.date{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+    top:121px;
+    left:50px;
+}
+.illness{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+     top:121px;
+    right:310px;
+}
+.contact{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+    
+    top:169px;
+    left:80px;
+}
+.age{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+    top:73px;
+    right:310px;
+}
+.gender{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+     top:25px;
+    right:310px;
+}
+.brgy{
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:500;
+    position:absolute;
+    top:169px;
+    right:310px;
+}
+.Add{
+     right: 20px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Poppins', sans-serif;
+     font-weight:600;
+     color:white;
+     background-color: #425365;
+     border-style: none;
+     border-radius:8px;
+     bottom: 5px;   
+     width:130px;
+     height:40px;
+}
+.Update{
+     right: 20px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Poppins', sans-serif;
+     font-weight:600;
+     color:white;
+     background-color: #425365;
+     border-style: none;
+     border-radius:8px;
+     bottom: 195px; 
+      
+     width:130px;
+     height:40px;
+}
+.Delete{
+     right: 20px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Poppins', sans-serif;
+     font-weight:600;
+     color:white;
+     background-color: #425365;
+     border-style: none;
+     border-radius:8px;
+      bottom: 145px;  
+       
+     width:130px;
+     height:40px;
+}
+.Clear{
+     right: 20px;
+     position:absolute;
+     font-size:17px;
+     margin:5px;
+     font-family: 'Poppins', sans-serif;
+     font-weight:600;
+     color:white;
+     background-color: #425365;
+     border-style: none;
+     border-radius:8px;
+     bottom: 95px; 
+     width:130px;
+     height:40px;
+}
+
+.Add:hover,.Update:hover,.Delete:hover,
+.Clear:hover{
+    background-color: black;
+     
+}

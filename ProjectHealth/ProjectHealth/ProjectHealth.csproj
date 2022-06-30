@@ -110,6 +110,11 @@
     <Content Include="css\SAPrenatal.css" />
     <Content Include="css\SAStaff.css" />
     <Content Include="css\staff.css" />
+    <Content Include="css\TUAccount.css" />
+    <Content Include="css\TUadmin.css" />
+    <Content Include="css\TUCheckup.css" />
+    <Content Include="css\TUPrenatal.css" />
+    <Content Include="css\TUStaff.css" />
     <Content Include="imagess\account.png" />
     <Content Include="imagess\accountwhite.png" />
     <Content Include="imagess\categoryblack.png" />
@@ -158,6 +163,11 @@
     <Content Include="SAPrenatal.aspx" />
     <Content Include="SAStaff.aspx" />
     <Content Include="staff.aspx" />
+    <Content Include="TUAccount.aspx" />
+    <Content Include="TUadmin.aspx" />
+    <Content Include="TUCheckup.aspx" />
+    <Content Include="TUPrenatal.aspx" />
+    <Content Include="TUStaff.aspx" />
     <Content Include="WebForm1.aspx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -303,6 +313,27 @@
     <Compile Include="staff.aspx.designer.cs">
       <DependentUpon>staff.aspx</DependentUpon>
     </Compile>
+    <Compile Include="TUAccount.aspx.cs">
+      <DependentUpon>TUAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TUAccount.aspx.designer.cs">
+      <DependentUpon>TUAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TUadmin.aspx.cs">
+      <DependentUpon>TUadmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TUadmin.aspx.designer.cs">
+      <DependentUpon>TUadmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TUCheckup.aspx.cs">
+      <DependentUpon>TUCheckup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TUCheckup.aspx.designer.cs">
+      <DependentUpon>TUCheckup.aspx</DependentUpon>
+    </Compile>
     <Compile Include="tuktukan.aspx.cs">
       <DependentUpon>tuktukan.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -323,6 +354,20 @@
     </Compile>
     <Compile Include="tuktukanprenatal.aspx.designer.cs">
       <DependentUpon>tuktukanprenatal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TUPrenatal.aspx.cs">
+      <DependentUpon>TUPrenatal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TUPrenatal.aspx.designer.cs">
+      <DependentUpon>TUPrenatal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TUStaff.aspx.cs">
+      <DependentUpon>TUStaff.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TUStaff.aspx.designer.cs">
+      <DependentUpon>TUStaff.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>

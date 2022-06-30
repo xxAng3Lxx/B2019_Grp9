@@ -113,6 +113,22 @@
               </div>
 
 
+                <div class="divage">
+
+                 <asp:Label ID="Label5" runat="server" Text="Womens Pregnancy Age" class="ge"></asp:Label>
+                 <asp:Chart ID="Chart3" runat="server" class="age">
+                     <Series>
+                         <asp:Series Name="Series3" Font="Century Gothic, 15.75pt, style=Bold"></asp:Series>
+                     </Series>
+                       
+                     <ChartAreas>
+                         <asp:ChartArea Name="ChartArea3"></asp:ChartArea>
+                     </ChartAreas>
+                 </asp:Chart>
+             
+              </div>
+
+
 
 
 

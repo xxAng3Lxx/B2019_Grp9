@@ -34,6 +34,10 @@ div.loginn{
     border-color: #AFB2B8;
     border-style:solid;
     
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 
 .txtpass{
@@ -45,6 +49,11 @@ div.loginn{
      border-radius:5px;
     border-color: lightgray;
     border-style:solid;
+
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .txtusertype{
     height:45px;
@@ -55,6 +64,11 @@ div.loginn{
      border-radius:5px;
     border-color: #AFB2B8;
     border-style:solid;
+
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .btnlogin{
     height:45px;

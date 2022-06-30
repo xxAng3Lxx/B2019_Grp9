@@ -169,6 +169,10 @@ div.nav{
     border-style:solid;
     background-color:#f1f1f1;
 
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .txtpage{
     height:40px;
@@ -180,6 +184,11 @@ div.nav{
     border-color:#f1f1f1;
     border-style:solid;
     background-color:#f1f1f1;
+
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .txtpaddress{
     height:40px;
@@ -191,6 +200,11 @@ div.nav{
     border-color:#f1f1f1;
     border-style:solid;
     background-color:#f1f1f1;
+
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .txtpdate{
     height:40px;
@@ -202,6 +216,11 @@ div.nav{
     border-color:#f1f1f1;
     border-style:solid;
     background-color:#f1f1f1;
+
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .txtpcontact{
     height:40px;
@@ -213,6 +232,11 @@ div.nav{
     border-color:#f1f1f1;
     border-style:solid;
     background-color:#f1f1f1;
+
+     font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    font-weight:400;
+
 }
 .txtbrgy{
     position:absolute;

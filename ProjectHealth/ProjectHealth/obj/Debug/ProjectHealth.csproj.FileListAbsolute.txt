@@ -61,6 +61,8 @@ C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Micr
 C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.ApplicationInsights.xml
 C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.csprojResolveAssemblyReference.cache
 C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.dll
 C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.pdb
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\B2019_Grp9\ProjectHealth\ProjectHealth\obj\Debug\ProjectHealth.csproj.CopyComplete
